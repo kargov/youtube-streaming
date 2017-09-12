@@ -2,7 +2,7 @@
   "name": "zipcar-chalange",
   "version": "1.0.0",
   "repository": "https://github.com/kargov/youtube-streaming",
-  "license": "MIT",
+  "license": "ISC",
   "description": "A React.js app for searching and playing Youtube videos via the Youtube API",
   "main": "index.js",
   "scripts": {

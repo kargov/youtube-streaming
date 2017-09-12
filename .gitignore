@@ -1,3 +1,10 @@
 /node_modules
 bundle.js
 npm-debug.log
+.DS_Store
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/youtube-streaming.iml
+.idea/vcs.xml
+.idea/misc.xml
