@@ -27,6 +27,8 @@ The result will be
 
 ### Run the Application
 
+Please update src/index.js with your YOUTUBE API KEY
+
 The project is prefigured with a simple development web server. The simplest way to start
 this server is:
 
