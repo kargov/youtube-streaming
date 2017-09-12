@@ -11,6 +11,7 @@ The application is based on https://github.com/paullucas/youtube-search
 ## Technology Stack
 
 * REACT
+* REACT-MATERIAL
 * JEST
 
 ### Install Dependencies
